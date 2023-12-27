@@ -24,7 +24,6 @@
 **Switchboard is currently deployed on:**
 
 - Solana
-- NEAR
 - CoreDAO
 - Arbitrum
 - Optimism
